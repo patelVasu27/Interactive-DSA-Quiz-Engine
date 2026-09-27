@@ -1,0 +1,13 @@
+CC = gcc
+CFLAGS = -Wall -Wextra -std=c11
+
+all: dsa_quiz
+
+dsa_quiz: main.c
+	$(CC) $(CFLAGS) -o dsa_quiz main.c
+
+clean:
+	rm -f dsa_quiz
+
+run: dsa_quiz
+	./dsa_quiz
