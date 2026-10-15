@@ -17,20 +17,26 @@ This is a C language conversion of the original C++ DSA Quiz Application from [A
 
 ## Compilation
 
+Run these commands from the repository root:
+
 ### Using GCC directly:
 ```bash
-cd dsa_quiz_c
 gcc -Wall -Wextra -std=c11 -o dsa_quiz main.c
 ```
 
 ### Using Makefile:
 ```bash
-cd dsa_quiz_c
 make
 ```
 
 ## Running the Program
 
+On Windows:
+```powershell
+.\dsa_quiz.exe
+```
+
+On Linux or macOS:
 ```bash
 ./dsa_quiz
 ```
@@ -120,7 +126,7 @@ To remove the compiled binary:
 make clean
 ```
 
-Or:
+Or, on Linux or macOS:
 ```bash
 rm -f dsa_quiz
 ```
