@@ -149,4 +149,7 @@ All core features and logic from the original C++ version have been preserved:
 - ✅ Scoring system
 - ✅ Performance report generation
 
+A PROJECT MADE FOR SUBJECT:-DATA STRUCTURES IN SEMESTER 3 IN A.D.I.T INSTITUTE BY VATSAL SHAH , VASU PATEL AND SNEHIL SONI. 
+
+
 See `CONVERSION_NOTES.md` for detailed information on the conversion process.
