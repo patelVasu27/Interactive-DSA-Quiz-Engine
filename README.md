@@ -149,7 +149,18 @@ All core features and logic from the original C++ version have been preserved:
 - ✅ Scoring system
 - ✅ Performance report generation
 
-A PROJECT MADE FOR SUBJECT:-DATA STRUCTURES IN SEMESTER 3 IN A.D.I.T INSTITUTE BY VATSAL SHAH , VASU PATEL AND SNEHIL SONI. 
+A PROJECT MADE FOR SUBJECT:-DATA STRUCTURES IN SEMESTER 3 IN A.D.I.T INSTITUTE 
+
+## Contributors
+The following students contributed to the development of this project.
+
+| S. No.| Student Name   | Enrollment Number |
+
+|   1   | VASU PATEL     | Enrollment no. 12502120601120 |
+
+|   2   | VATSAL SHAH    | Enrollment no. 12502120601121 |
+
+|   3   | SNEHIL SONI    | Enrollment no. 12502120601111 |
 
 
 See `CONVERSION_NOTES.md` for detailed information on the conversion process.
